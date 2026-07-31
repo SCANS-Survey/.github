@@ -2,7 +2,7 @@
 
 These Github pages include software and instructions for running an advanced visual data collection system, primarily targetted at ship based visual line transect surveys for cetaceans.
 
-The work builds on a system created by Doug Gillespie and Russell Leaper for the 2005 SCANS II survey [An Integrated Data Collection System for Line Transect Surveys](https://doi.org/10.47536/jcrm.v11i3.601) 
+The work builds on a system created by Doug Gillespie, Russell Leaper, and others for the 2005 SCANS II survey [An Integrated Data Collection System for Line Transect Surveys](https://doi.org/10.47536/jcrm.v11i3.601) 
 
 The newest iteration of the system brings in two important changes:
 
@@ -11,7 +11,7 @@ The newest iteration of the system brings in two important changes:
 
 This means that (we hope) all components required to use this system can be bought off the shelf without any need to build and maintain bespoke hardware.  
 
-This is a work in progress, targetting surveys in the summer of 2027, hopefully with testing at sea earlier that year, or possibly late 2026. 
+This is a work in progress, targeting surveys in the summer of 2027, hopefully with testing at sea earlier that year, or possibly late 2026. 
 
 This GitHub organisation will contain repositories of software developments specific to this survey method and also repositories of important configuration files and sample databases that you'll probably want to help get a system up and running. 
 
@@ -19,6 +19,7 @@ The main code development repositories are currently:
 
 1. [scansapp](https://github.com/SCANS-Survey/scansapp) - an Android (phone or tablet) app that has sightings buttons, captures webcam images, and sends voice to the PAMGuard data recorder.
 2. [loggervoices](https://github.com/SCANS-Survey/loggervoices) - a [PAMGuard plugin module](https://www.pamguard.org/pluginmodules.html) that captures voices from the app and records them to files whenever sightings buttons are pressed.
+3. [scansappnmea](https://github.com/SCANS-Survey/scansappnmea) - a [PAMGuard plugin module](https://www.pamguard.org/pluginmodules.html) that receives location data from the app in NMEA format. This means that the mobile device / scasnapp can be used in place of a normal GPS unit within PAMGuard.
 
 Configuration files, sample databases, etc. are in the [SCANS](https://github.com/SCANS-Survey/SCANS) repository. See the readme and wiki in that repository (under development) for instructions on how to set things up. 
 
