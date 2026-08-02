@@ -23,7 +23,7 @@ The main code development repositories are currently:
 4. [Validation](https://github.com/SCANS-Survey/validation) - Data validation code for use at sea and for offline processing.
 5. Configuration files, sample databases, etc. are in the [SCANS](https://github.com/SCANS-Survey/SCANS) repository.
 
-See the readme files in individual repositories and [wiki pages](https://github.com/SCANS-Survey/.github/wiki) (under development) for instructions on how to set things up. 
+See the readme files in individual repositories and [wiki pages](https://github.com/SCANS-Survey/scansapp/wiki) (under development) for instructions on how to set things up. 
 
 Additional help material will (eventually) be incorporated into the PAMGuard help pages for [PAMGuard Logger Forms](https://www.pamguard.org/olhelp/visual_methods/loggerFormsHelp/docs/loggerFormsOverview.html), the Webcam capture module, etc. 
 
