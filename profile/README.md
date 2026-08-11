@@ -19,10 +19,11 @@ The main code development repositories are currently:
 
 1. [scansapp](https://github.com/SCANS-Survey/scansapp) - an Android (phone or tablet) app that has sightings buttons, captures webcam images, location data (GPS), and sends voice to the PAMGuard data recorder.
 2. [loggervoices](https://github.com/SCANS-Survey/loggervoices) - a [PAMGuard plugin module](https://www.pamguard.org/pluginmodules.html) that captures voices from the app and records them to files whenever sightings buttons are pressed.
-3. [camergrabber]() - a [PAMGuard plugin module](https://www.pamguard.org/pluginmodules.html) that can capture webcam images and images from the scansapp. We've previously used these to take images of lines on the deck, below the tracker binoculars, to measure angles.  
-4. [scansappnmea](https://github.com/SCANS-Survey/scansappnmea) - a [PAMGuard plugin module](https://www.pamguard.org/pluginmodules.html) that receives location data from the app in NMEA format. This means that the mobile device / scasnapp can be used in place of a normal GPS unit within PAMGuard.
-5. [Validation](https://github.com/SCANS-Survey/validation) - Data validation code for use at sea and for offline processing.
-6. Configuration files, sample databases, etc. are in the [SCANS](https://github.com/SCANS-Survey/SCANS) repository.
+3. [camergrabber](https://github.com/SCANS-Survey/cameragrabber) - a [PAMGuard plugin module](https://www.pamguard.org/pluginmodules.html) that can capture and store timestamped webcam images and images from the scansapp. We've previously used these to take images of lines on the deck, below the tracker binoculars, to measure angles.
+4. [videocontrol](https://github.com/SCANS-Survey/videocontrol) - To control video cameras, used for video range tracking. 
+5. [scansappnmea](https://github.com/SCANS-Survey/scansappnmea) - a [PAMGuard plugin module](https://www.pamguard.org/pluginmodules.html) that receives location data from the app in NMEA format. This means that the mobile device / scasnapp can be used in place of a normal GPS unit within PAMGuard.
+6. [Validation](https://github.com/SCANS-Survey/validation) - Data validation code for use at sea and for offline processing.
+7. Configuration files, sample databases, etc. are in the [SCANS](https://github.com/SCANS-Survey/SCANS) repository.
 
 See the readme files in individual repositories and [wiki pages](https://github.com/SCANS-Survey/scansapp/wiki) (under development) for instructions on how to set things up. 
 
