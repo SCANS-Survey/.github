@@ -41,5 +41,5 @@ Citation. We'll eventually get a DOI of some sort to cite, but for now please ei
 | [camergrabber](https://github.com/SCANS-Survey/cameragrabber) | Grab camera frames from webcam or scansapp  for angle measurement | [cameragrabber-1.1.jar](https://github.com/SCANS-Survey/cameragrabber/releases/download/V1.1/cameragrabber-1.1.jar) |
 | [videocontrol](https://github.com/SCANS-Survey/videocontrol)  | Control video cameras / recorders for range measurement | Not yet available |
 | [scansappnmea](https://github.com/SCANS-Survey/scansappnmea)  | Capture NMEA (GPS) data from scansapp | [scansappnmea1.0.jar](https://github.com/SCANS-Survey/scansappnmea/releases/download/V1.0/scansappnmea1.0.jar) |
-| [Validation](https://github.com/SCANS-Survey/validation) | Quality control during and after survey | not yet available |
+| [Validation](https://github.com/SCANS-Survey/validation) | Quality control during and after survey | Not yet available |
 
