@@ -19,7 +19,7 @@ The main code development repositories are currently:
 
 1. [scansapp](https://github.com/SCANS-Survey/scansapp) - an Android (phone or tablet) app that has sightings buttons, captures webcam images, location data (GPS), and sends voice to the PAMGuard data recorder.
 2. [loggervoices](https://github.com/SCANS-Survey/loggervoices) - a [PAMGuard plugin module](https://www.pamguard.org/pluginmodules.html) that captures voices from the app and records them to files whenever sightings buttons are pressed.
-3. [camergrabber](https://github.com/SCANS-Survey/cameragrabber) - a [PAMGuard plugin module](https://www.pamguard.org/pluginmodules.html) that can capture and store timestamped webcam images and images from the scansapp. We've previously used these to take images of lines on the deck, below the tracker binoculars, to measure angles.
+3. [cameragrabber](https://github.com/SCANS-Survey/cameragrabber) - a [PAMGuard plugin module](https://www.pamguard.org/pluginmodules.html) that can capture and store timestamped webcam images and images from the scansapp. We've previously used these to take images of lines on the deck, below the tracker binoculars, to measure angles.
 4. [videocontrol](https://github.com/SCANS-Survey/videocontrol) - To control video cameras, used for video range tracking. 
 5. [scansappnmea](https://github.com/SCANS-Survey/scansappnmea) - a [PAMGuard plugin module](https://www.pamguard.org/pluginmodules.html) that receives location data from the app in NMEA format. This means that the mobile device / scasnapp can be used in place of a normal GPS unit within PAMGuard.
 6. [Validation](https://github.com/SCANS-Survey/validation) - Data validation code for use at sea and for offline processing.
@@ -38,7 +38,7 @@ Citation. We'll eventually get a DOI of some sort to cite, but for now please ei
 |---------|---------|---------|
 | [scansapp](https://github.com/SCANS-Survey/scansapp) | Android App | [scansapp_1.1.apk](https://github.com/SCANS-Survey/scansapp/releases/download/V1.1/scansapp_1.1.apk) |
 | [loggervoices](https://github.com/SCANS-Survey/loggervoices) | Stream and capture observer audio from scansapp | [loggervoices1.0.jar](https://github.com/SCANS-Survey/loggervoices/releases/download/V1.0/loggervoices1.0.jar) |
-| [camergrabber](https://github.com/SCANS-Survey/cameragrabber) | Grab camera frames from webcam or scansapp  for angle measurement | [cameragrabber-1.1.jar](https://github.com/SCANS-Survey/cameragrabber/releases/download/V1.1/cameragrabber-1.1.jar) |
+| [cameragrabber](https://github.com/SCANS-Survey/cameragrabber) | Grab camera frames from webcam or scansapp  for angle measurement | [cameragrabber-1.1.jar](https://github.com/SCANS-Survey/cameragrabber/releases/download/V1.1/cameragrabber-1.1.jar) |
 | [videocontrol](https://github.com/SCANS-Survey/videocontrol)  | Control video cameras / recorders for range measurement | Not yet available |
 | [scansappnmea](https://github.com/SCANS-Survey/scansappnmea)  | Capture NMEA (GPS) data from scansapp | [scansappnmea1.0.jar](https://github.com/SCANS-Survey/scansappnmea/releases/download/V1.0/scansappnmea1.0.jar) |
 | [Validation](https://github.com/SCANS-Survey/validation) | Quality control during and after survey | Not yet available |
