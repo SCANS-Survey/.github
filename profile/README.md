@@ -36,8 +36,8 @@ Citation. We'll eventually get a DOI of some sort to cite, but for now please ei
 ## Latest / Current Version - Quick download
 | Package | Purpose | Latest |
 |---------|---------|---------|
-| [scansapp](https://github.com/SCANS-Survey/scansapp) | Android App | [scansapp_1.1.apk](https://github.com/SCANS-Survey/scansapp/releases/download/V1.1/scansapp_1.1.apk) |
-| [loggervoices](https://github.com/SCANS-Survey/loggervoices) | Stream and capture observer audio from scansapp | [loggervoices1.0.jar](https://github.com/SCANS-Survey/loggervoices/releases/download/V1.0/loggervoices1.0.jar) |
+| [scansapp](https://github.com/SCANS-Survey/scansapp) | Android App | [scansapp_1.2.apk](https://github.com/SCANS-Survey/scansapp/releases/download/V1.2/scansapp_1.2.apk) |
+| [loggervoices](https://github.com/SCANS-Survey/loggervoices) | Stream and capture observer audio from scansapp | [loggervoices1.2.jar](https://github.com/SCANS-Survey/loggervoices/releases/download/V1.2/loggervoices1.2.jar) |
 | [cameragrabber](https://github.com/SCANS-Survey/cameragrabber) | Grab camera frames from webcam or scansapp  for angle measurement | [cameragrabber-1.1.jar](https://github.com/SCANS-Survey/cameragrabber/releases/download/V1.1/cameragrabber-1.1.jar) |
 | [videocontrol](https://github.com/SCANS-Survey/videocontrol)  | Control video cameras / recorders for range measurement | Not yet available |
 | [scansappnmea](https://github.com/SCANS-Survey/scansappnmea)  | Capture NMEA (GPS) data from scansapp | [scansappnmea1.0.jar](https://github.com/SCANS-Survey/scansappnmea/releases/download/V1.0/scansappnmea1.0.jar) |
